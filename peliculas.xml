@@ -1,4 +1,4 @@
-<title>*******************AQUI PONEN EL TITULO********************</title>
+<title>*******************Las leyendas de una nueva era********************</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -9,7 +9,7 @@
 		<fanart></fanart>
         ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page>*****************************AQUI PONEN LA URL**************************</page>
+<page>*****************************http://diskokosmiko.mx/raltango/caballeros-97169/saint,1747710.mp4 **************************</page>
 <cookieJar></cookieJar>
 </regex>
 <regex>
