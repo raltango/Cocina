@@ -4,10 +4,10 @@
 <channels>
  
 <channel>
-      <name>[COLOR blue][COLOR red]•[/COLOR]El Santuario[/COLOR]</name>
-  <thumbnail></thumbnail>
-<fanart></fanart>
-<link>http://ignoreme</link>
-   <externallink>https://raw.githubusercontent.com/raltango/Cocina/master/sub_menu.xml</externallink>
+	<name>[COLOR blue][COLOR red]•[/COLOR]El Santuario[/COLOR]</name>
+	<thumbnail></thumbnail>
+	<fanart></fanart>
+	<link>http://ignoreme</link>
+	<externallink>https://raw.githubusercontent.com/raltango/Cocina/master/sub_menu.xml</externallink>
 </channel>
   </channels>
