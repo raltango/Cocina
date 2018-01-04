@@ -9,24 +9,13 @@
         <items>
 
 
-
-
-
-               
-                        <item><title>[COLOR=yellow]                                      [/COLOR][COLOR=yellow] [/COLOR][COLOR=yellow][/COLOR]</title>   <link>http://about.me/adryan</link></item>
-                    
-
-
-
-
-
-
-                        <item>
-                        <title>[COLOR white][COLOR blue]• [/COLOR]01. Las leyendas de una nueva era</title>
-                        <fanart></fanart>
-                        <thumbnail></thumbnail>
-                        <link>https://www.youtube.com/watch?v=iQJ1s1-h6gg</link>
-                        </item>
+           
+<item>
+  <title>[COLOR white][COLOR blue]• [/COLOR]01. Las leyendas de una nueva era</title>
+  <fanart></fanart>
+  <thumbnail></thumbnail>
+  <link>https://www.youtube.com/watch?v=iQJ1s1-h6gg</link>
+  </item>
 
 
 
@@ -39,7 +28,12 @@
                         <link>http://pastebin.com</link>
                         </item>
 
-
+<item>
+<title>Pastel de Nutella fácil esponjoso y húmedo!! </title>        
+<urlsolve>https://www.youtube.com/watch?v=Pppddm-O4Nc</urlsolve>
+<thumbnail>http://www.tinglado.net/files/manuel/imagenes/Yodapng.png</thumbnail>
+<fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
+</item>
 
 
 
