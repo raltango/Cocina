@@ -40,7 +40,7 @@
 	</item>
 
 <item>	
-	<title>*******************AQUI PONEN EL TITULO********************</title>
+	<title>*******************CABALLEROS********************</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -51,7 +51,7 @@
 		<fanart></fanart>
         ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page>*****************************AQUI PONEN LA URL**************************</page>
+<page>http://diskokosmiko.mx/raltango/caballeros-97169</page>
 <cookieJar></cookieJar>
 </regex>
 <regex>
