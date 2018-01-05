@@ -108,7 +108,7 @@
 <name>tok</name>
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
 <page>http://diskokosmiko.mx/[makelist.param2]</page>
-<referer>http://diskokosmiko.mx/trivianita/peliculas-de-aventuras-el-rockero-30698/list,1,3</referer>
+<referer>http://diskokosmiko.mx/raltango/caballeros-97169</referer>
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>
