@@ -1,0 +1,38 @@
+<Line>titu_lista=Series Infantiles Pruebas</Line>
+<Line>autor=Bad-Max.</Line>
+<Line>logo_lista=http://i.imgur.com/17KIOvF.png</Line>
+<Line>fondo_lista=http://statics.viralizalo.com/virs/2016/01/VIR_95868_8151_recuerdas_el_nombre_de_estas_series_infantiles.jpg</Line>
+
+
+<Coment1>Permite añadir al principio 3 lineas</Coment>
+<Coment2>de comentarios... como ¡¡Feliz Navidad!!</Coment>
+<Com#ent3>Es Opcional, si no quieres ponerlas, le añades el '#' como en esta línea y lo ignorará</Coment>
+
+
+<Line>titu=Animaniacs url=http://diskokosmiko.mx/anime1/animaniacs-25349 logo=http://i.imgur.com/jIyfawE.jpg fondo=http://vignette4.wikia.nocookie.net/animaniacs/images/c/c9/Animaniacs.JPG/revision/latest?cb=20140603004922 sinop= Serie de TV (1993-1998). 99 episodios. Conocida serie animada creada por Steven Spielberg a principios de los 90. La serie se basaba en las aventuras de los hermanos Warner (Yakko y Wakko Warner) y la hermana Warner (Dot), quienes aseguran haber sido las estrellas de algunas de las primeras caricaturas de Warner Bros. que eran tan alocadas que los ejecutivos del estudio decidieron encerrarlos en una torre de agua en Warner Bros. Studios en Burbank, California. Otros personajes eran Pinky y Cerebro (quienes contaron con serie propia), Los Tres Palomos, Botones y Mandy, Rita y Runt, Tía Slappy y Skippy, Dr. Otto Scratchansniff (Dr. Rasca y Huele) y Katty Kaboom, entre otros</Line>
+ 
+<Line>titu=Banner y Flappy url=http://kbagi.com/consejo39/banner-y-flappy-564380 logo=http://pics.filmaffinity.com/seton_dobutsuki_risu_no_banna_tv_series-938060595-mmed.jpg fondo=http://1.bp.blogspot.com/-E65D-CBADTg/UiFpHhBVLnI/AAAAAAAABdU/F82-E1CdC0g/s1600/Banner-And-Flappy4.jpg sinop= 26 episodios (1979). Un desafortunado incidente conduce a una pequeña ardilla hasta una granja, donde se la darán como comida a la gata. Pero la gata siente lástima por el animalito y le adopta como si fuera su hijo. Le llamará Banner. Pero su felicidad no durará demasiado. Un incendio arrasa la granja, y Banner se ve obligado a separarse de su "madrastra" en su huída al bosque. Allí conocerá a un búho real y se encontrará a más ardillas, entre las que se encuentra Flappy, de la que se enamorará y con la que vivirá muchas aventuras.</Line>
+ 
+<Line>titu=Pororo url=https://www.youtube.com/playlist?list=PLdNk6FKMo-YXzQZmgWCHQMbcbnie07X_m logo=https://lemonella25.files.wordpress.com/2014/05/ebbd80eba19ceba19c-ec82aceca784-2.jpg fondo=https://i.ytimg.com/vi/3Tn9k2pc7fM/maxresdefault.jpg sinop= </Line>
+ 
+<Line>titu=Desafio Champions. Sendokai url=http://www.dailymotion.com/playlist/x3ajvs_elio1997_sendokai logo=http://www.boolino.es/newmedia/portadas/2014/05/22/desafio-champions-sendokai-libro-de-posters_9788408128700.jpg fondo=http://1.bp.blogspot.com/-ktgbYazD0CE/Va0lxbf_n9I/AAAAAAAAAAo/xOPJ8PCwZe8/s1600/Portada_2_de_la_serie.jpg sinop=Zak, Cloe, Kiet y Fenzy son cuatro chicos de la Tierra poco populares y sin ningún talento para el deporte. Un día encuentran unos brazaletes que los transportan a otra dimensión. Allí conocen al maestro Tänpo, que les explica que el imperio de los Zorn está conquistando todas las dimensiones del Multiverso. La Tierra está en peligro y, si quieren salvarla, sólo habrá una manera: tendrán que superar sus debilidades, aprender el arte del Sendokai hasta convertirse en guerreros y ganar el Gran Torneo del Multiverso. </Line>
+
+<Line#>titu= url= logo= fondo= sinop= </Line>
+
+<Line#>titu= url= logo= fondo= sinop= </Line>
+
+<Line#>titu= url= logo= fondo= sinop= </Line>
+
+<Line#>titu= url= logo= fondo= sinop= </Line>
+
+<Line#>titu= url= logo= fondo= sinop= </Line>
+
+
+
+# Formatos admitidos de Youtube:
+# Una PlayList: https://www.youtube.com/playlist?list=PLkSyyX7VXoE4P2y8_lmlcstqJI7gChd5r
+# Todas las de un "User": https://www.youtube.com/user/BRBInternacional/playlists
+# Todas las de un "Channel": https://www.youtube.com/channel/UC7-EJtnI9Zdr6wBM4vdhnfQ/playlists
+
+# Tanto los Comentarios, como el Logo, como el Fondo como la Sinopsis son OPCIONALES
+# El Addon se encarga por sí solo de clasificar automáticamente por Orden Alfabético los títulos de cada Video.
