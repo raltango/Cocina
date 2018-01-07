@@ -1,6 +1,5 @@
 ?xml version="1.0" encoding="UTF-8" standalone="yes"?>
  
-
 <channels>
  
 <channel>
@@ -16,6 +15,14 @@
 	<thumbnail></thumbnail>
 	<fanart></fanart>
 	<link>http://ignoreme</link>
-	<externallink>https://raw.githubusercontent.com/raltango/Cocina/master/sub_menu.xml</externallink>
+	<externallink>https://raw.githubusercontent.com/raltango/Cocina/master/sub_menu11.xml</externallink>
 	</channel>
-	</channels>
+	
+	<channel>
+	<name>Ral</name>
+	<thumbnail></thumbnail>
+	<fanart></fanart>
+	<link>http://ignoreme</link>
+	<externallink>https://raw.githubusercontent.com/raltango/Cocina/master/sub_menu11.xml</externallink>
+	</channel>
+</channels>
