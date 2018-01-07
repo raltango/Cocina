@@ -155,7 +155,7 @@
 </item>
 
 <item>
-<title>*******************AQUI PONEN EL TITULO********************</title>
+<title>*******************Ral********************</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
