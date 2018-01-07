@@ -39,8 +39,8 @@
 	<fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
 	</item>
 	
-	<item>
-<title> [COLOR amarillo] * [/ COLOR] [COLOR amarillo] THE [/ COLOR] [COLOR red] JOKER [/ COLOR] [COLOR lime] * [/ COLOR] [COLOR lime] [/ COLOR] </ title >
+<item>
+<title>*  THE JOKER  *</title >
 <link> $ doregex [makelist] </link>
 <regex>
   <nombre> makelist </name>
