@@ -1,0 +1,37 @@
+<item>
+<title> [COLOR amarillo] * [/ COLOR] [COLOR amarillo] THE [/ COLOR] [COLOR red] JOKER [/ COLOR] [COLOR lime] * [/ COLOR] [COLOR lime] [/ COLOR] </ title >
+<link> $ doregex [makelist] </ link>
+<regex>
+  <nombre> makelist </ name>
+  <listrepeat> <! [CDATA [
+        <title> [COLOR amarillo] [makelist.param3] [/ COLOR] </ title>
+        <link> $ doregex [getUrl] </ link>
+<fanart> </ fanart>
+<thumbnail> </ thumbnail>
+]]> </ listrepeat>
+<expres> <! [CDATA [href = "\ /.*, (. *?), list. * \ n. * \ n. * \ n. * href =" \ / ([^ "] *)" . *?> (. *?) <]]> </ expres>
+<página> </ página>
+<cookieJar> </ cookieJar>
+</ regex>
+<regex>
+<nombre> getUrl </ name>
+<expres> DownloadUrl ":" ([^ "] +) <expres>
+<página> http://diskokosmiko.mx/action/DownloadFile?location=fi&f= [makelist.param1] </ page>
+<rawpost> fileId = [makelist.param1] & __ RequestVerificationToken = $ doregex [tok] </ rawpost>
+<referer> http://diskokosmiko.mx/ [makelist.param2] </ referer>
+<conexión> keep-alive </ connection>
+<aceptar> * / * </ accept>
+<X-Req> XMLHttpRequest </ X-Req>
+<cookieJar> </ cookieJar>
+</ regex>
+<regex>
+<nombre> tok </ name>
+<expres> DownloadFile. * RequestVerificationToken. *? value = "([^"] +) <expres>
+<página> </ página>
+<referer> </ referer>
+<conexión> keep-alive </ connection>
+<cookieJar> </ cookieJar>
+</ regex>
+<fanart> </ fanart>
+<thumbnail> </ thumbnail>
+</ item>
