@@ -1,3 +1,4 @@
+<item>
 <title>*******************Las leyendas de una nueva era********************</title>
 <link>$doregex[makelist]</link>
 <regex>
@@ -34,4 +35,3 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
-<item>
