@@ -44,13 +44,12 @@
 <link> $ doregex [makelist] </link>
 <regex>
   <nombre> makelist </name>
-  <listrepeat> <! [CDATA [
-        <title> [COLOR amarillo] [makelist.param3] [/ COLOR] </title>
+  <listrepeat><! [CDATA [<title> [COLOR amarillo] [makelist.param3] [/ COLOR] </title>
         <link> $ doregex [getUrl] </link>
-<fanart> </fanart>
-<thumbnail> </thumbnail>
-]]> </listrepeat>
-<expres> <! [CDATA [href = "\ /.*, (. *?), list. * \ n. * \ n. * \ n. * href =" \ / ([^ "] *)" . *?> (. *?) <]]> </expres>
+		<fanart></fanart>
+		<thumbnail></thumbnail>
+		]]> </listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
 <página>http://diskokosmiko.mx/raltango/caballeros-97169</página>
 <cookieJar> </cookieJar>
 </regex>
@@ -68,13 +67,13 @@
 <regex>
 <nombre> tok </name>
 <expres> DownloadFile. * RequestVerificationToken. *? value = "([^"] +) <expres>
-<página> </página>
-<referer> </referer>
+<página>http://diskokosmiko.mx/[makelist.param2]</página>
+<referer>http://diskokosmiko.mx/raltango/caballeros-97169</referer>
 <conexión> keep-alive </connection>
-<cookieJar> </cookieJar>
+<cookieJar></cookieJar>
 </regex>
-<fanart> </fanart>
-<thumbnail> </thumbnail>
+<fanart></fanart>
+<thumbnail></thumbnail>
 </item>
 
 <item>	
