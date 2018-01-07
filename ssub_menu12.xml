@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
-<channels>
- 
-<channel>	
+<item>	
 	<title>*******************CABALLEROS********************</title>
 	<link>$doregex[makelist]</link>
 	<regex>
@@ -31,10 +29,10 @@
 	<name>tok</name>
 	<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
 	<page>http://diskokosmiko.mx/[makelist.param2]</page>
-	<referer>http://diskokosmiko.mx/trivianita/peliculas-de-aventuras-el-rockero-30698/list,1,3</referer>
+	<referer>http://diskokosmiko.mx/</referer>
 	<connection>keep-alive</connection>
 	<cookieJar></cookieJar>
 	</regex>
 	<thumbnail></thumbnail>
 	<fanart></fanart>
-</channels>
+</item>
