@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item >
-<title > [COLOR blanco] • [/ COLOR] [COLOR azul] CINE DE [/ COLOR] [COLOR rojo] FICCION [/ COLOR] </title >
+<title > [COLOR red] • [/ COLOR] [COLOR blue] CINE DE [/ COLOR] [COLOR red] FICCION [/ COLOR] </title >
 <link > $ doregex [makelist] </link >
 <regex >
   <name > makelist </name >
   <listrepeat > <! [CDATA [
-        <title> [COLOR blanco] [makelist.param3] [/ COLOR] </title>
+        <title> [COLOR red] [makelist.param3] [/ COLOR] </title>
         <link> $ doregex [getUrl] </link>
 		<thumbnail> </thumbnail>
 		<fanart> </fanart>
