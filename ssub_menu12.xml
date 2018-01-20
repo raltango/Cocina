@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
+<channels>
+
 <channel>
 	<name>[COLOR blue][COLOR red]•[/COLOR] 0.1 - Saga El Santuario[/COLOR]</name>
 	<thumbnail></thumbnail>
@@ -7,6 +9,7 @@
 	<link>http://ignoreme</link>
 	<externallink></externallink>
 	</channel>
+</channels>
 
 <item>	
 <title>[COLOR red]•[/COLOR][COLOR blue]CINE DE[/COLOR][COLOR red]FICCION[/COLOR]</title>
