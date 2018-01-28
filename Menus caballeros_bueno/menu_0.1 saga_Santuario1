@@ -1,0 +1,46 @@
+?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+ 
+<channels>
+ 
+	<channel>
+	<name>01. DESAFIO GALACTICO - 8Epi</name>
+	<thumbnail></thumbnail>
+	<fanart></fanart>
+	<link>http://ignoreme</link>
+	<externallink>https://raw.githubusercontent.com/raltango/Cocina/master/Menus%20caballeros_bueno/0.1.1.%20DESAFIO%20GALACTICO%20-%208Epi.xml</externallink>
+	</channel>
+	
+	<channel>
+	<name>02. LOS CABALLEROS NEGROS - 7Epi</name>
+	<thumbnail></thumbnail>
+	<fanart></fanart>
+	<link></link>
+	<externallink>https://raw.githubusercontent.com/raltango/Cocina/master/Menus%20caballeros_bueno/0.1.2.%20LOS%20CABALLEROS%20NEGROS%20-%207Epi.xml</externallink>
+	</channel>
+	
+	<channel>
+	<name>03. LOS CABALLEROS DE PLATA - 20Epi</name>
+	<thumbnail></thumbnail>
+	<fanart></fanart>
+	<link>http://ignoreme</link>
+	<externallink></externallink>
+	</channel>
+
+	<channel>
+	<name>04. LOS 12 CABALLEROS DE ORO - 38Epi</name>
+	<thumbnail></thumbnail>
+	<fanart></fanart>
+	<link>http://ignoreme</link>
+	<externallink></externallink>
+	</channel>
+</channels>
+
+<item>
+<title>Pruebas</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/raltango/Cocina/master/menu.xml</externallink>
+</item>
+
+
