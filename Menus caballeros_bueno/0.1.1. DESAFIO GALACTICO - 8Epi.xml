@@ -29,7 +29,7 @@
 <name>tok</name>
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
 <page>http://diskokosmiko.mx/raltango/01-desafio-galactico-8epi-100047</page>
-<referer>http://diskokosmiko.mx/raltango/01-desafio-galactico-8epi-100047</referer>
+<referer>http://diskokosmiko.mx/trivianita/peliculas-ficcion-castellano-el-rockero-30666/list,1,3</referer>
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>
