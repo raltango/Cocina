@@ -35,4 +35,12 @@
 	</channel>
 </channels>
 
+<item>
+<title>Pruebas</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/raltango/Cocina/master/menu.xml</externallink>
+</item>
+
 
