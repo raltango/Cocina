@@ -11,7 +11,7 @@
 	<fanart></fanart>
     ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page>http://diskokosmiko.mx/raltango/03-los-caballeros-de-plata-20epi-102443</page>
+<page>http://diskokosmiko.mx/raltango/04-los-12-caballeros-de-oro-38epi-102447/list,1,2</page>
 <cookieJar></cookieJar>
 </regex>
 <regex>
@@ -28,8 +28,8 @@
 <regex>
 <name>tok</name>
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
-<page>http://diskokosmiko.mx/raltango/03-los-caballeros-de-plata-20epi-102443</page>
-<referer>http://diskokosmiko.mx/raltango/03-los-caballeros-de-plata-20epi-102443</referer>
+<page>http://diskokosmiko.mx/raltango/04-los-12-caballeros-de-oro-38epi-102447/list,1,2</page>
+<referer>http://diskokosmiko.mx/raltango/04-los-12-caballeros-de-oro-38epi-102447/list,1,2</referer>
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>
