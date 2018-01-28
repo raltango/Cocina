@@ -1,0 +1,36 @@
+?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+ 
+<channels>
+ 
+<channel>
+	<name>01. DESAFIO GALACTICO - 8Epi</name>
+	<thumbnail></thumbnail>
+	<fanart></fanart>
+	<link>http://ignoreme</link>
+	<externallink></externallink>
+	</channel>
+	
+	<channel>
+	<name>02. LOS CABALLEROS NEGROS - 7Epi</name>
+	<thumbnail></thumbnail>
+	<fanart></fanart>
+	<link>http://ignoreme</link>
+	<externallink></externallink>
+	</channel>
+	
+	<channel>
+	<name>03. LOS CABALLEROS DE PLATA - 20Epi</name>
+	<thumbnail></thumbnail>
+	<fanart></fanart>
+	<link>http://ignoreme</link>
+	<externallink></externallink>
+	</channel>
+
+	<channel>
+	<name>04. LOS 12 CABALLEROS DE ORO - 38Epi</name>
+	<thumbnail></thumbnail>
+	<fanart></fanart>
+	<link>http://ignoreme</link>
+	<externallink></externallink>
+	</channel>
+</channels>
