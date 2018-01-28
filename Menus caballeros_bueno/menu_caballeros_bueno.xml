@@ -1,28 +1,33 @@
-?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
  
-<channels>
+<item>
+<title>[COLOR blue][COLOR red]•[/COLOR] 0.1 - Saga El Santuario[/COLOR]</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/raltango/Cocina/master/Menus%20caballeros_bueno/menu_0.1%20saga_Santuario.xml</externallink>
+</item>
  
-<channel>
-	<name>[COLOR blue][COLOR red]•[/COLOR] 0.1 - Saga El Santuario[/COLOR]</name>
-	<thumbnail></thumbnail>
-	<fanart></fanart>
-	<link>http://ignoreme</link>
-	<externallink>https://raw.githubusercontent.com/raltango/Cocina/master/Menus%20caballeros_bueno/menu_0.1%20saga_Santuario.xml</externallink>
-	</channel>
-	
-	<channel>
-	<name>[COLOR blue][COLOR red]•[/COLOR] 0.2 - Saga Asgard[/COLOR]</name>
-	<thumbnail></thumbnail>
-	<fanart></fanart>
-	<link>http://ignoreme</link>
-	<externallink></externallink>
-	</channel>
-	
-	<channel>
-	<name> 0.3 - Saga Poseidon</name>
-	<thumbnail></thumbnail>
-	<fanart></fanart>
-	<link>http://ignoreme</link>
-	<externallink></externallink>
-	</channel>
-</channels>
+<item>
+<title>[COLOR blue][COLOR red]•[/COLOR] 0.2 - Saga Asgard[/COLOR]</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink></externallink>
+</item>
+ 
+<item>
+<title> 0.3 - Saga Poseidon</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink></externallink>
+</item>
+
+<item>
+<title></title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink></externallink>
+</item>
