@@ -1,0 +1,28 @@
+?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+ 
+<channels>
+ 
+<channel>
+	<name>[COLOR blue][COLOR red]•[/COLOR] 0.1 - Saga El Santuario[/COLOR]</name>
+	<thumbnail></thumbnail>
+	<fanart></fanart>
+	<link>http://ignoreme</link>
+	<externallink></externallink>
+	</channel>
+	
+	<channel>
+	<name>[COLOR blue][COLOR red]•[/COLOR]0.2 - Saga Asgard[/COLOR]</name>
+	<thumbnail></thumbnail>
+	<fanart></fanart>
+	<link>http://ignoreme</link>
+	<externallink></externallink>
+	</channel>
+	
+	<channel>
+	<name>0.3 - Saga Poseidon</name>
+	<thumbnail></thumbnail>
+	<fanart></fanart>
+	<link>http://ignoreme</link>
+	<externallink></externallink>
+	</channel>
+</channels>
