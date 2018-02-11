@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>	
-<title>01. DESAFIO GALACTICO - 8Epi</title>
+<title>04. LOS 12 CABALLEROS DE ORO - 38Epi</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
