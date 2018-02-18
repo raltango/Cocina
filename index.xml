@@ -9,7 +9,7 @@
 </item>
 
 <item>
-<title>[COLOR red] Recetas [/COLOR]</title>
+<title>[COLOR red] Recetas de Cocina [/COLOR]</title>
 <thumbnail>https://gallery.mailchimp.com/e2d8844347a64c65fae7d52ec/images/99153af2-e050-4179-bb27-ddafa1b4c239.png</thumbnail>
 <fanart>https://gallery.mailchimp.com/e2d8844347a64c65fae7d52ec/images/9fcc16fa-fe00-419d-862c-b0a08f016b19.jpg</fanart>
 <link>http://ignoreme</link>
@@ -34,6 +34,14 @@
 
 <item>
 <title>[COLOR red] Series [/COLOR]</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink></externallink>
+</item>
+
+<item>
+<title>[COLOR red] Peliculas [/COLOR]</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
