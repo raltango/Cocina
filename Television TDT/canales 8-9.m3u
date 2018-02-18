@@ -1,0 +1,351 @@
+#EXTM3U
+
+CANALES EN CASTELLANO
+#EXTINF:-1 group-title="TDT ESPAÑA",ANTENA 3 HD
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_3_av-p.m3u8
+#EXTINF:-1 group-title="TDT ESPAÑA",LA SEXTA HD
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-b.m3u8
+#EXTINF:-1 group-title="TDT ESPAÑA",CANAL SUR ANDALUCIA HD
+https://youtu.be/uPJZtdlTaR0
+#EXTINF:-1 group-title="TDT ESPAÑA",NEOX HD
+http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/index_4_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="TDT ESPAÑA",NOVA HD
+http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8
+#EXTINF:-1 group-title="TDT ESPAÑA",ATRESERIES HD
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_2_av-b.m3u8?sd=10&amp;rebase=on
+#EXTINF:-1 group-title="TDT ESPAÑA",TELEDEPORTE
+http://hlsackdn_gl1-lh.akamaihd.net/i/hlsdvrlive_1@137561/index_1500_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="TDT ESPAÑA",MEGA HD
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_3_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="TDT ESPAÑA",24 HORAS
+http://hlsackdn_gl8-lh.akamaihd.net/i/hlsdvrlive_1@81183/index_0650_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="TDT ESPAÑA",13 TV
+http://streaming-fr02.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/smil:live.smil/playlist.m3u8
+I
+#EXTINF:-1 group-title="CANALES EN DIRECTO DE YOUTUBE",BEIN SPORTS NEWS HD
+https://www.youtube.com/watch?v=Ram-J4i1QHQ
+#EXTINF:-1 group-title="CANALES EN DIRECTO DE YOUTUBE",SKY NEWS
+https://www.youtube.com/watch?v=y60wDzZt8yg
+#EXTINF:-1 group-title="CANALES EN DIRECTO DE YOUTUBE",NASA TV
+https://www.youtube.com/watch?v=wwMDvPCGeE0
+#EXTINF:-1 group-title="CANALES EN DIRECTO DE YOUTUBE",C5N
+https://www.youtube.com/watch?v=yc702qA1CPw
+#EXTINF:-1 group-title="CANALES EN DIRECTO DE YOUTUBE",APRENDE ALGO NUEVO AHORA MISMO 24 HORAS
+https://www.youtube.com/watch?v=vntB-6mZdNQ
+#EXTINF:-1 group-title="CANALES EN DIRECTO DE YOUTUBE",DINOSAURIOS 24/7
+https://www.youtube.com/watch?v=1QOErTDciuQ
+
+#EXTINF:-1 group-title="MOVISTAR+ CINE",#0 HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/1.ts
+#EXTINF:-1 group-title="MOVISTAR+ CINE",M+ ESTRENOS HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/2.ts
+#EXTINF:-1 group-title="MOVISTAR+ CINE",M+ ACCION HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/4.ts
+#EXTINF:-1 group-title="MOVISTAR+ CINE",M+ COMEDIA HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/5.ts
+#EXTINF:-1 group-title="MOVISTAR+ CINE",M+ DCINE HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/3.ts
+#EXTINF:-1 group-title="MOVISTAR+ CINE",M+ XTRA HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/6.ts
+#EXTINF:-1 group-title="MOVISTAR+ CINE",LIFE TV HD
+http://163.172.15.219:1935/live/lifetvesp387/playlist.m3u8
+
+#EXTINF:-1 group-title="MOVISTAR+ INFANTILES",DISNEY JUNIOR
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/42.ts
+#EXTINF:-1 group-title="MOVISTAR+ INFANTILES",NICKELODEON HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/43.ts
+#EXTINF:-1 group-title="MOVISTAR+ INFANTILES",DISNEY XD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG:
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/41.ts
+
+#EXTINF:-1 group-title="MOVISTAR+ DOCUMENTALES",NATIONAL GEOGRAPHIC HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/34.ts
+#EXTINF:-1 group-title="MOVISTAR+ DOCUMENTALES",NAT GEO WILD HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/35.ts
+
+#EXTINF:-1 group-title="MOVISTAR+ SERIES",M+ SERIES HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/14.ts
+#EXTINF:-1 group-title="MOVISTAR+ SERIES",M+ SERIES XTRA HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/15.ts
+#EXTINF:-1 group-title="MOVISTAR+ SERIES",SYFY HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/8.ts
+#EXTINF:-1 group-title="MOVISTAR+ SERIES",AXN HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/18.ts
+#EXTINF:-1 group-title="MOVISTAR+ SERIES",AXN WHITE HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/19.ts
+#EXTINF:-1 group-title="MOVISTAR+ SERIES",TNT HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/21.ts
+#EXTINF:-1 group-title="MOVISTAR+ SERIES",FOX HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/16.ts
+#EXTINF:-1 group-title="MOVISTAR+ SERIES",FOX LIFE HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/17.ts
+#EXTINF:-1 group-title="MOVISTAR+ SERIES",CALLE 13 HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/9.ts
+
+#EXTINF:-1 group-title="LISTA DE EVENTOS ARENAVISION",EJECUTAR DESDE TELEGRAM @W3U_bot . SEGUIR LAS INSTRUCCIONES Y DARLE A LOS TRES PUNTOS DE LA PARTE SUPERIOR EN COMPARTIR TU TELEFONO COMO MEDIDA DE SEGURIDAD Y EL BOT TE DA LA LISTA DE DEPORTES PERSONALIZADA. (INSTALAR APP ACESTREAM Y VLC)
+
+#EXTINF:-1 group-title="LISTA DE EVENTOS SOPCAST Y ACESTREAM",EJECUTAR DESDE TELEGRAM @sopcast . AUNQUE EL BOT ESTE EN RUSO NO IMPORTA. UNA VEZ DENTRO VEREIS LOS ENLACES PARA SOPCAST Y ACESTREAM (EN ACESTREAM COPIA EL ENLACE POR COMPLETO. EN SOPCAST PUEDES COPIARLO POR COMPLETO O SOLO LA CIFRA DE LOS SEIS NUMEROS FINALES QUE ESTAN DESPUES DE LA BARRA. COMO POR EJEMPLO /137037. (INSTALAR APP SOPCAST Y VLC)
+
+#EXTINF:-1 group-title="MOVISTAR+ DEPORTES",BEIN LA LIGA HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/23.ts
+#EXTINF:-1 group-title="MOVISTAR+ DEPORTES",BEIN SPORTS HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/24.ts
+#EXTINF:-1 group-title="MOVISTAR+ DEPORTES",LA LIGA TV HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/22.ts
+#EXTINF:-1 group-title="MOVISTAR+ DEPORTES",M+ FUTBOL HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/26.ts
+#EXTINF:-1 group-title="MOVISTAR+ DEPORTES",M+ PARTIDAZO 1
+http://edge1865.livesports.pw/live/verpartidazo04b41ff741e2d/index.m3u8
+#EXTINF:-1 group-title="MOVISTAR+ DEPORTES",M+ PARTIDAZO 2
+http://edge9.verliga11.pw/live/verliga2/index.m3u8
+#EXTINF:-1 group-title="MOVISTAR+ DEPORTES",EUROSPORT 1
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/33.ts
+#EXTINF:-1 group-title="MOVISTAR+ DEPORTES",FORMULA 1 HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/29.ts
+#EXTINF:-1 group-title="MOVISTAR+ DEPORTES",MOTO GP HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/30.ts
+#EXTINF:-1 group-title="MOVISTAR+ DEPORTES",M+ DEPORTES 1 HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/27.ts
+#EXTINF:-1 group-title="MOVISTAR+ DEPORTES",M+ DEPORTES 2 HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/28.ts
+#EXTINF:-1 group-title="MOVISTAR+ DEPORTES",TOROS TV HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/31.ts
+
+#EXTINF:-1 group-title="CANALES MUSICALES",DANCE TV
+http://163.172.217.221:1935/tv/dance_tv/playlist.m3u8
+#EXTINF:-1 group-title="CANALES MUSICALES",RADIO ONE HD
+http://server5.stweb.tv/radioone/live/playlist.m3u8
+#EXTINF:-1 group-title="CANALES MUSICALES",RETRO TV
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1 group-title="CANALES MUSICALES",HEART TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_656_av-p.m3u8?hd=10&amp;rebase=on
+#EXTINF:-1 group-title="CANALES MUSICALES",M2O TV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="CANALES MUSICALES",RADIO MONTECARLO
+http://wow01.105.net/live/rmc1/playlist.m3u8
+#EXTINF:-1 group-title="CANALES MUSICALES",THT MUSIC
+http://cdn-01.bonus-tv.ru:8080/tntmusic/index.m3u8
+#EXTINF:-1 group-title="CANALES MUSICALES",CAPITAL TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="CANALES MUSICALES",MELODY CHANNEL
+http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
+#EXTINF:-1 group-title="CANALES MUSICALES",MI MUSICA HD
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8
+#EXTINF:-1 group-title="CANALES MUSICALES",TELEMUSICA
+http://186.155.200.118:1935/live/telemusica/livestream.m3u8
+#EXTINF:-1 group-title="CANALES MUSICALES",TOP LATINO
+http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist_w1282322208.m3u8
+#EXTINF:-1 group-title="CANALES MUSICALES",VIBBE
+http://46.101.21.42:8081/live/live2/playlist.m3u8
+#EXTINF:-1 group-title="CANALES MUSICALES",THE VOICE
+http://stream.1music.hu/stream/1music.m3u8
+#EXTINF:-1 group-title="CANALES MUSICALES",PORTALFOXMIX TV
+http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
+#EXTINF:-1 group-title="CANALES MUSICALES",VIRGIN TV
+http://wow01.105.net/live/virgin1/chunklist.m3u8
+
+#EXTINF:-1 group-title="CANALES MUSICALES MUSIC CHOICE",POP & COUNTRY
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC132/chunklist.m3u8
+#EXTINF:-1 group-title="CANALES MUSICALES MUSIC CHOICE",POP HITS
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC133/chunklist.m3u8
+#EXTINF:-1 group-title="CANALES MUSICALES MUSIC CHOICE",R&B SOUL
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC124/chunklist.m3u8
+#EXTINF:-1 group-title="CANALES MUSICALES MUSIC CHOICE",ROCK
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC138/chunklist.m3u8
+#EXTINF:-1 group-title="CANALES MUSICALES MUSIC CHOICE",MEXICANA
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC131/chunklist.m3u8
+#EXTINF:-1 group-title="CANALES MUSICALES MUSIC CHOICE",POP LATINO
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC123/chunklist.m3u8
+#EXTINF:-1 group-title="CANALES MUSICALES MUSIC CHOICE",TROPICALES
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC137/chunklist.m3u8
+#EXTINF:-1 group-title="CANALES MUSICALES MUSIC CHOICE",ALTERNATIVE
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC122/chunklist.m3u8
+#EXTINF:-1 group-title="CANALES MUSICALES MUSIC CHOICE",BRITS + HITS
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC143/chunklist.m3u8
+#EXTINF:-1 group-title="CANALES MUSICALES MUSIC CHOICE",DANCE/EDM
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC127/chunklist.m3u8
+#EXTINF:-1 group-title="CANALES MUSICALES MUSIC CHOICE",HIP-HOP AND R&B
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC106/chunklist.m3u8
+#EXTINF:-1 group-title="CANALES MUSICALES MUSIC CHOICE",HIT LIST
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC100/chunklist.m3u8
+#EXTINF:-1 group-title="CANALES MUSICALES MUSIC CHOICE",INDIE
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC129/chunklist.m3u8
+#EXTINF:-1 group-title="CANALES MUSICALES MUSIC CHOICE",METAL
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC139/chunklist.m3u8
+#EXTINF:-1 group-title="CANALES MUSICALES MUSIC CHOICE",RAP
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC125/chunklist.m3u8
+#EXTINF:-1 group-title="CANALES MUSICALES MUSIC CHOICE",TODAY
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC121/chunklist.m3u8
+#EXTINF:-1 group-title="CANALES MUSICALES MUSIC CHOICE",90S
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC140/chunklist.m3u8
+#EXTINF:-1 group-title="CANALES MUSICALES MUSIC CHOICE",MC PLAY
+http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
+
+
+#EXTINF:-1 group-title="VARIOS CANALES DE DEPORTES",ALL SPORTS
+http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
+#EXTINF:-1 group-title="VARIOS CANALES DE DEPORTES",AYM SPORTS
+https://vivoplay-i.akamaihd.net/hls/live/253483/canal2/master2500k.m3u8
+#EXTINF:-1 group-title="VARIOS CANALES DE DEPORTES",REDBULL TV
+http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8
+#EXTINF:-1 group-title="VARIOS CANALES DE DEPORTES",TYC SPORTS
+https://vivoplay-i.akamaihd.net/hls/live/255333/canal5/master2500k.m3u8
+#EXTINF:-1 group-title="VARIOS CANALES DE DEPORTES",BETIS TV
+http://rbetis-hls.flumotion.com/rbetis/live/chunklist.m3u8
+#EXTINF:-1 group-title="VARIOS CANALES DE DEPORTES",PORTO CANAL
+http://213.13.26.41:1935/live/portocanal/KodiPortugal.pt.m3u8
+#EXTINF:-1 group-title="VARIOS CANALES DE DEPORTES",CHELSEA TV
+http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/index_2528_av-p.m3u8
+#EXTINF:-1 group-title="VARIOS CANALES DE DEPORTES",PX SPORTS
+https://vivoplay-i.akamaihd.net/hls/live/255324/canal4/master2500k.m3u8
+#EXTINF:-1 group-title="VARIOS CANALES DE DEPORTES",ABU DHABI SPORTS
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1
+#EXTINF:-1 group-title="VARIOS CANALES DE DEPORTES",ABU DHABI SPORTS 2
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2
+#EXTINF:-1 group-title="VARIOS CANALES DE DEPORTES",SPORTS TV
+http://stream.sportstv.com.tr:1935/sportstv/SportsTV3/playlist.m3u8
+
+
+#EXTINF:-1 group-title="ADULTOS (+18)",ADULT HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/44.ts
+
+
+#EXTINF:-1 group-title="ADULTOS (+18)",DP HD
+http://62.210.113.177:19000/udp/238.0.100.6:5000
+#EXTINF:-1 group-title="ADULTOS (+18)",DUSK
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/49.ts
+
+#EXTINF:-1 group-title="ADULTOS (+18)",FETISH 1
+http://admin.fetishbox.com/_content/6664_Bobbi_Dana_Winter_Vendetta_md.mp4
+
+#EXTINF:-1 group-title="ADULTOS (+18)",PORNEQ
+http://porneq.com/media/porn5/videos/465/Amanda-Black-20-10-2015-Mylove-360p-2Df89PnA8q2.mp4
+#EXTINF:-1 group-title="ADULTOS (+18)",SEXTATION
+http://212.250.196.74:1935/bsx24/_definst_/mpegts1.stream/playlist.m3u8
+
+
+#EXTINF:-1 group-title="ADULTOS (+18)",SIRIN
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/46.ts
+
+#EXTINF:-1 group-title="ADULTOS (+18)",CHICHI MEDINA
+http://tube.paperstreetcash.com/8mins/exxxtrasmall/exxxtrasmall_chichi_medina_8minutes.mp4
+#EXTINF:-1 group-title="ADULTOS (+18)",CHLOE FOSTER
+http://tube.paperstreetcash.com/8mins/exxxtrasmall/exxxtrasmall_chloe_foster_8minutes.mp4
+
+#EXTINF:-1 group-title="ADULTOS (+18)",DAKOTA SKYE
+http://tube.paperstreetcash.com/12mins/exxxtrasmall/exxxtrasmall_dakota_skye_12minute.mp4
+#EXTINF:-1 group-title="ADULTOS (+18)",DEMIDA
+http://tube.paperstreetcash.com/8mins/rubateen/rubateen_demida_8minutes.mp4
+
+#EXTINF:-1 group-title="ADULTOS (+18)",DUSYA
+http://tube.paperstreetcash.com/12mins/rubateen/rubateen_dusya_12minute.mp4
+#EXTINF:-1 group-title="ADULTOS (+18)",XXX 1
+http://anysex.com/get_file/1/36c3f94673b9a0e998f5cf48a5dbae48/184000/184753/184753.mp4
+
+#EXTINF:-1 group-title="ADULTOS (+18)",XXX 2
+http://anysex.com/get_file/1/07d3eb53f530b5b9dce8585df1882e95/203000/203802/203802.mp4
+#EXTINF:-1 group-title="ADULTOS (+18)",XXX 3
+http://anysex.com/get_file/1/0f750593e9c13a97d1372da7ba5ff03d/182000/182756/182756.mp4
+
+#EXTINF:-1 group-title="ADULTOS (+18)",XXX 4
+http://anysex.com/get_file/1/ff756e8a922190e541ffb28fc1d0899c/182000/182758/182758.mp4
+#EXTINF:-1 group-title="ADULTOS (+18)",XXX 5
+http://anysex.com/get_file/1/8796f0bd1e8e71882aa295e9191b9296/191000/191215/191215.mp4
+
+#EXTINF:-1 group-title="ADULTOS (+18)",XXX 6
+http://anysex.com/get_file/1/5173e1412a034da36e71f85ed0ad1846/203000/203201/203201.mp4
+#EXTINF:-1 group-title="ADULTOS (+18)",XXX 7
+http://anysex.com/get_file/1/05aea56460ffe6544e25c74d5e8d603f/203000/203203/203203.mp4
+
+#EXTINF:-1 group-title="ADULTOS (+18)",XXX 8
+http://finevids.xxx/get_file/1/3d6feb808a0edfcedea916dfbed0f428/82000/82103/82103.mp4
+#EXTINF:-1 group-title="ADULTOS (+18)",XXX 9
+http://finevids.xxx/get_file/1/197767f6be9c3d33665cde6f29d4f8fb/81000/81697/81697.mp4
+
+#EXTINF:-1 group-title="ADULTOS (+18)",XXX 10
+http://finevids.xxx/get_file/1/19f697e62f022a60d5b943276787785d/82000/82071/82071.mp4
+#EXTINF:-1 group-title="ADULTOS (+18)",XXX 11
+http://anysex.com/get_file/1/fbb2fa94aaba78f34860bbaad1e245c2/202000/202080/202080.mp4
+
+#EXTINF:-1 group-title="ADULTOS (+18)",XXX 12
+http://finevids.xxx/get_file/1/0a0b117bc9a6a1ed64c0ced9cedc4f0c/81000/81667/81667.mp4
+#EXTINF:-1 group-title="ADULTOS (+18)",XXX 13
+http://anysex.com/get_file/1/7f1ab8fb692cdd03eceaa260c957393b/200000/200149/200149.mp4
+
+#EXTINF:-1 group-title="ADULTOS (+18)",XXX 14
+http://anysex.com/get_file/1/99441daeb374ea78124532d200b98c9d/204000/204522/204522.mp4
+#EXTINF:-1 group-title="ADULTOS (+18)",XXX 15
+http://anysex.com/get_file/1/96383cc05aedc07402e7b2dea40e505c/186000/186265/186265.mp4
+
+#EXTINF:-1 group-title="ADULTOS (+18)",XXX 16
+http://anysex.com/get_file/1/0dd12485608c09bc44a29b52b2f027cc/184000/184508/184508.mp4
+#EXTINF:-1 group-title="ADULTOS (+18)",XXX 17
+http://anysex.com/get_file/1/1d759b669f1a44309556024be91f9923/193000/193615/193615.mp4
+                    
+#EXTINF:-1 group-title="ADULTOS (+18)",XXX 18
+http://anysex.com/get_file/1/f3846b9c434f29d8bc9e6124122b9399/19300
