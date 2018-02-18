@@ -1,12 +1,5 @@
  <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
  
- 
-<channel>
-    <name>          <<<<<<<<<TDT>>>>>>>></name>
-    <thumbnail>http://1.bp.blogspot.com/-bDos023a_yE/VpUfT7Jqd6I/AAAAAAAAE-8/pfCuzeOSIBE/s1600/4.jpg</thumbnail>
-    <fanart>http://cdn.wonderfulengineering.com/wp-content/uploads/2014/10/wallpaper-photos-4.jpg</fanart>
-<channel>
-
 <item>
 <title>[COLOR red] _**_ [/COLOR][COLOR  skyblue] DMAX [/COLOR][COLOR red] _**_ [/COLOR]</title>
 <link>$doregex[GetPageUrl]|Referer=http://livesports.pw/embed2.php?file=launotelefivegb&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0</link>
@@ -32,5 +25,19 @@
 <agent>iPad</agent>
 </regex>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/7/76/La_1_HD_TVE.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR red] _**_ [/COLOR][COLOR  skyblue] ANTENA 3 [/COLOR][COLOR red] _**_ [/COLOR]</title>
+<link>http://xxedge166.livesports.pw/live/antena3/chunklist.m3u8?token=C0UYyftP8rrwhcHUfB_52Q&expires=1518977900</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR red] _**_ [/COLOR][COLOR  skyblue] ANTENA 3 [/COLOR][COLOR red] _**_ [/COLOR]</title>
+<link>http://telefivegb.com/canales/tdt/ant3/</link>
+<thumbnail></thumbnail>
 <fanart></fanart>
 </item>
