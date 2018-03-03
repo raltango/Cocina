@@ -85,7 +85,7 @@
 	<fanart></fanart>
     ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page>http://kbagi.com/raltango/prueba-603842/la-patrulla-canina-3x01-encuentra-a-un-genio-salva-a-un-equilibrista,5657818.mkv</page>
+<page>http://kbagi.com/raltango/prueba-603842</page>
 <cookieJar></cookieJar>
 </regex>
 <regex>
@@ -102,8 +102,8 @@
 <regex>
 <name>tok</name>
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
-<page>http://kbagi.com/raltango/prueba-603842/la-patrulla-canina-3x01-encuentra-a-un-genio-salva-a-un-equilibrista,5657818.mkv</page>
-<referer>http://kbagi.com/raltango/prueba-603842/la-patrulla-canina-3x01-encuentra-a-un-genio-salva-a-un-equilibrista,5657818.mkv</referer>
+<page>http://kbagi.com/raltango/prueba-603842</page>
+<referer>http://kbagi.com/raltango/prueba-603842</referer>
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>
