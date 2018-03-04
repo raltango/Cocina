@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
+<items>
 <item>
 <title>[COLOR blue]Movistar[/COLOR] [COLOR orange]Series[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
@@ -16,6 +17,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://livesports.pw/embedn.php?fil
 </regex>
 <thumbnail>http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-series.jpg</thumbnail>
 </item>
+</items>
 
 <channels>
 <channel>
