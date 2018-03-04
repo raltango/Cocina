@@ -1,3 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<item>	
 <Line>titu_lista=Series Infantiles Pruebas</Line>
 <Line>autor=Bad-Max.</Line>
 <Line>logo_lista=http://i.imgur.com/17KIOvF.png</Line>
@@ -26,3 +29,4 @@
 <Line#>titu= url= logo= fondo= sinop= </Line>
 
 <Line#>titu= url= logo= fondo= sinop= </Line>
+</item>
