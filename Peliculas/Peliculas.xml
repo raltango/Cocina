@@ -40,3 +40,10 @@ def GetLSProData (page_data, Cookie_Jar, m):
 <miniatura></thumbnail>
 <fanart></fanart>
 </item>
+
+<item >
+<title > [COLOR amarillo] 1X02 - PATRULLA CANINA [/ COLOR] </title>
+<miniatura > https://i.imgur.com/WEGJ2CV.jpg </thumbnail>
+<fanart > </fanart>
+<link > https://archive.org/download/TvccPlayPatrol/01X02%20PATRULLA%20CANINA.mp4 </link>
+</item>
