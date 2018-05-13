@@ -7,6 +7,7 @@
 <thumbnail></thumbnail>
 </item>
 
+<item>
 <title>[COLOR white]CINE DE FICCION[/COLOR] </title>
 <link>$doregex[makelist]</link>
 <regex>
