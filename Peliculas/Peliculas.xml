@@ -1,13 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>La SEXTA</title>
-<sportsdevil>http://tvespana.blogspot.com/2017/06/la-sexta-en-directo.html</sportsdevil>
-<referer>http://tvespana.blogspot.com</referer>
-<thumbnail></thumbnail>
-</item>
-
-<item>
 <title>[COLOR white]CINE DE FICCION[/COLOR] </title>
 <link>$doregex[makelist]</link>
 <regex>
