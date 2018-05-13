@@ -40,18 +40,3 @@ def GetLSProData (page_data, Cookie_Jar, m):
 <miniatura></thumbnail>
 <fanart></fanart>
 </item>
-
-<item>
-<title > [B] [COLOR lime] TEMPORADA 1 [/ COLOR] [/ B] </title>
-<link > NA </link>
-<miniatura > http://e01-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/55/427861.png </thumbnail>
-<fanart > http://www.dmax.marca.com/content/dam/discovery/seur/es/dmax/2017/09/alerta-policia-territorio1.jpg </fanart>
-</item>
-
-
-<item>
-<title> [B] [COLOR amarillo] Capitulo 1x01 [/ COLOR] [/ B] </title>
-<link> https://dplayit.akamaized.net/EHD_188937B_DPLAY_SPAIN/0/hls/EHD_188937B_DPLAY_SPAIN.m3u8 </link>
-<miniatura> https://dplay-south-prod-images.disco-api.com/2017/10/14/videoasset-18067-1507967474061.jpeg?w=480 & f = jpg & p = true & q = 75 </thumbnail>
-<fanart> http://www.dmax.marca.com/content/dam/discovery/seur/es/dmax/2017/09/alerta-policia-territorio1.jpg </fanart>
-</item>
