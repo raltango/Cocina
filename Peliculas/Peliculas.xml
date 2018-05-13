@@ -10,7 +10,7 @@ importar re, solicitudes, json
 def GetLSProData (page_data, Cookie_Jar, m):
  
  ref = 'http://kbagi.com/'
- url = 'http://kbagi.com/raltango/prueba-603842 '
+ url = 'http://kbagi.com/raltango/prueba-603842/01-las-leyendas-de-una-nueva-era,5657912.mkv '
  encabezados = {'User-Agent': 'Mozilla / 5.0 (X11; Linux i686; rv: 42.0) Gecko / 20100101 Firefox / 42.0 Iceweasel / 42.0', 'Referer': ref,
             'X-Solicitado-Con': 'XMLHttpRequest', 'Aceptar': '* / *'}
  session = requests.Session ()
