@@ -3,15 +3,14 @@
 <item>
 <title>[COLOR deeppink] · [/ COLOR] [COLOR powderblue] 2007 GP Europa: Nurburing [ESP] [/ COLOR]</title>
 <link> $ doregex [getUrl]</link>
- 
-<regex>
+ <regex>
 <nombre>getUrl</name>
 <expres><! [CDATA [ # $ pyFunction
 importar re, solicitudes, json
 def GetLSProData (page_data, Cookie_Jar, m):
  
  ref = 'http://kbagi.com/'
- url = 'http: //kbagi.com/Josele89/carreras-f1-621542/10-f1-gp-formula-1-gran-premio-de-europa-nurburgring-2007,5496131,list,1,1.avi '
+ url = 'http://kbagi.com/raltango/prueba-603842 '
  encabezados = {'User-Agent': 'Mozilla / 5.0 (X11; Linux i686; rv: 42.0) Gecko / 20100101 Firefox / 42.0 Iceweasel / 42.0', 'Referer': ref,
             'X-Solicitado-Con': 'XMLHttpRequest', 'Aceptar': '* / *'}
  session = requests.Session ()
@@ -24,7 +23,7 @@ def GetLSProData (page_data, Cookie_Jar, m):
  nrj = json.loads (nr)
  nr = nrj ['Contenido']
  r2 = re.findall (r '(? s) value = \ "(. *?) \"', nr) [0]
- data_a = {'__ RequestVerificationToken': r2, 'Nombre de usuario': 'Addonfesta', 'Contraseña': 'addonfesta2017'}
+ data_a = {'__ RequestVerificationToken': r2, 'Nombre de usuario': 'raltango', 'Contraseña': 'chascarrillo2505'}
  nr1 = requests.post ('http://kbagi.com/action/Account/Login', encabezados = encabezados, cookies = rv1, data = data_a)
  imprimir nr1.headers ['Set-Cookie']
  rasp = re.findall ('ASPXAUTH_v2 = (. *?);', nr1.headers ['Set-Cookie']) [0]
@@ -38,6 +37,21 @@ def GetLSProData (page_data, Cookie_Jar, m):
 <página> </página>
 <cookieJar> </cookieJar>
 </regex>
-<miniatura> http://www.thesportsdb.com/images/icons/honours/FIA_Formula_1_World_Championship.png </thumbnail>
-<fanart> http://eskipaper.com/images/f1-wallpaper-1.jpg </fanart>
+<miniatura></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title > [B] [COLOR lime] TEMPORADA 1 [/ COLOR] [/ B] </title>
+<link > NA </link>
+<miniatura > http://e01-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/55/427861.png </thumbnail>
+<fanart > http://www.dmax.marca.com/content/dam/discovery/seur/es/dmax/2017/09/alerta-policia-territorio1.jpg </fanart>
+</item>
+
+
+<item>
+<title> [B] [COLOR amarillo] Capitulo 1x01 [/ COLOR] [/ B] </title>
+<link> https://dplayit.akamaized.net/EHD_188937B_DPLAY_SPAIN/0/hls/EHD_188937B_DPLAY_SPAIN.m3u8 </link>
+<miniatura> https://dplay-south-prod-images.disco-api.com/2017/10/14/videoasset-18067-1507967474061.jpeg?w=480 & f = jpg & p = true & q = 75 </thumbnail>
+<fanart> http://www.dmax.marca.com/content/dam/discovery/seur/es/dmax/2017/09/alerta-policia-territorio1.jpg </fanart>
 </item>
