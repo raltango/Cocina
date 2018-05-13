@@ -1,46 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
-<item>
-<title>[COLOR deeppink] · [/ COLOR] [COLOR powderblue] 2007 GP Europa: Nurburing [ESP] [/ COLOR]</title>
-<link> $ doregex [getUrl]</link>
- <regex>
-<nombre>getUrl</name>
-<expres><! [CDATA [ # $ pyFunction
-importar re, solicitudes, json
-def GetLSProData (page_data, Cookie_Jar, m):
- 
- ref = 'http://kbagi.com/'
- url = 'http://kbagi.com/raltango/prueba-603842/01-las-leyendas-de-una-nueva-era,5657912.mkv '
- encabezados = {'User-Agent': 'Mozilla / 5.0 (X11; Linux i686; rv: 42.0) Gecko / 20100101 Firefox / 42.0 Iceweasel / 42.0', 'Referer': ref,
-            'X-Solicitado-Con': 'XMLHttpRequest', 'Aceptar': '* / *'}
- session = requests.Session ()
- r = session.get (url, encabezados = encabezados)
- rv1 = r.cookies
- 
- vfile, vtoken = re.findall ('action / DownloadFile. *? fileId. *? value = "(. *?)". *? Token ". *? value =" (. *?) "', r.text ) [0]
- data_a = {'fileId': vfile, '__RequestVerificationToken': vtoken}
- nr = requests.post ('http://kbagi.com/action/DownloadFile?location=fi&f=%s'%vfile, encabezados = encabezados, cookies = rv1, data = data_a) .text
- nrj = json.loads (nr)
- nr = nrj ['Contenido']
- r2 = re.findall (r '(? s) value = \ "(. *?) \"', nr) [0]
- data_a = {'__ RequestVerificationToken': r2, 'Nombre de usuario': 'raltango', 'Contraseña': 'chascarrillo2505'}
- nr1 = requests.post ('http://kbagi.com/action/Account/Login', encabezados = encabezados, cookies = rv1, data = data_a)
- imprimir nr1.headers ['Set-Cookie']
- rasp = re.findall ('ASPXAUTH_v2 = (. *?);', nr1.headers ['Set-Cookie']) [0]
- rv1 ['. ASPXAUTH_v2'] = escofina
- data_a = {'fileId': vfile, '__RequestVerificationToken': vtoken}
- nr3 = requests.post ('http://kbagi.com/action/DownloadFile?location=fi&f=%s'%vfile, encabezados = encabezados, cookies = rv1, data = data_a) .text
- r3 = re.findall ('DownloadUrl': "(. *?)" ', nr3) [0]
- imprimir r3
- devolver r3]]> 
- </expres>
-<página> </página>
-<cookieJar> </cookieJar>
-</regex>
-<miniatura></thumbnail>
-<fanart></fanart>
-</item>
-
 <item >
 <title > [COLOR amarillo] 1X02 - PATRULLA CANINA [/ COLOR] </title>
 <miniatura > https://i.imgur.com/WEGJ2CV.jpg </thumbnail>
