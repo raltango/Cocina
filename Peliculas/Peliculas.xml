@@ -1,39 +1,43 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>[COLOR white]CINE DE FICCION[/COLOR] </title>
-<link>$doregex[makelist]</link>
+<title>[COLOR deeppink] · [/ COLOR] [COLOR powderblue] 2007 GP Europa: Nurburing [ESP] [/ COLOR]</title>
+<link> $ doregex [getUrl]</link>
+ 
 <regex>
-  <name>makelist</name>
-  <listrepeat><![CDATA[
-        <title>[COLOR white]  [makelist.param3][/COLOR] </title>
-        <link>$doregex[getUrl]</link>
-        <thumbnail></thumbnail>
-        <fanart></fanart>
-        ]]></listrepeat>
-<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page>http://kbagi.com/raltango/prueba-603842</page>
-<cookieJar></cookieJar>
+<nombre>getUrl</name>
+<expres><! [CDATA [ # $ pyFunction
+importar re, solicitudes, json
+def GetLSProData (page_data, Cookie_Jar, m):
+ 
+ ref = 'http://kbagi.com/'
+ url = 'http: //kbagi.com/Josele89/carreras-f1-621542/10-f1-gp-formula-1-gran-premio-de-europa-nurburgring-2007,5496131,list,1,1.avi '
+ encabezados = {'User-Agent': 'Mozilla / 5.0 (X11; Linux i686; rv: 42.0) Gecko / 20100101 Firefox / 42.0 Iceweasel / 42.0', 'Referer': ref,
+            'X-Solicitado-Con': 'XMLHttpRequest', 'Aceptar': '* / *'}
+ session = requests.Session ()
+ r = session.get (url, encabezados = encabezados)
+ rv1 = r.cookies
+ 
+ vfile, vtoken = re.findall ('action / DownloadFile. *? fileId. *? value = "(. *?)". *? Token ". *? value =" (. *?) "', r.text ) [0]
+ data_a = {'fileId': vfile, '__RequestVerificationToken': vtoken}
+ nr = requests.post ('http://kbagi.com/action/DownloadFile?location=fi&f=%s'%vfile, encabezados = encabezados, cookies = rv1, data = data_a) .text
+ nrj = json.loads (nr)
+ nr = nrj ['Contenido']
+ r2 = re.findall (r '(? s) value = \ "(. *?) \"', nr) [0]
+ data_a = {'__ RequestVerificationToken': r2, 'Nombre de usuario': 'Addonfesta', 'Contraseña': 'addonfesta2017'}
+ nr1 = requests.post ('http://kbagi.com/action/Account/Login', encabezados = encabezados, cookies = rv1, data = data_a)
+ imprimir nr1.headers ['Set-Cookie']
+ rasp = re.findall ('ASPXAUTH_v2 = (. *?);', nr1.headers ['Set-Cookie']) [0]
+ rv1 ['. ASPXAUTH_v2'] = escofina
+ data_a = {'fileId': vfile, '__RequestVerificationToken': vtoken}
+ nr3 = requests.post ('http://kbagi.com/action/DownloadFile?location=fi&f=%s'%vfile, encabezados = encabezados, cookies = rv1, data = data_a) .text
+ r3 = re.findall ('DownloadUrl': "(. *?)" ', nr3) [0]
+ imprimir r3
+ devolver r3]]> 
+ </expres>
+<página> </página>
+<cookieJar> </cookieJar>
 </regex>
-<regex>
-<name>getUrl</name>
-<expres>DownloadUrl":"([^"]+)<expres>
-<page>http://kbagi.com/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
-<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
-<referer>http://kbagi.com/[makelist.param2]</referer>
-<connection>keep-alive</connection>
-<accept>*/*</accept>
-<X-Req>XMLHttpRequest</X-Req>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-<name>tok</name>
-<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
-<page>http://kbagi.com/[makelist.param2]</page>
-<referer>http://kbagi.com/raltango/prueba-603842</referer>
-<connection>keep-alive</connection>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<miniatura> http://www.thesportsdb.com/images/icons/honours/FIA_Formula_1_World_Championship.png </thumbnail>
+<fanart> http://eskipaper.com/images/f1-wallpaper-1.jpg </fanart>
 </item>
