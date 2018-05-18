@@ -37,6 +37,13 @@
 <fanart></fanart>
 </item>
 
+<item>
+<title>[COLOR yellow] 01x01 - PATRULLA CANINA  [/COLOR]</title>
+<thumbnail>https://i.imgur.com/WEGJ2CV.jpg</thumbnail>
+<fanart></fanart>
+<link>https://archive.org/download/TvccPlayPatrol/01x01%20PATRULLA%20CANINA.mp4</link>
+</item>
+
 <item>	
 <title>Patrulla Canina</title>
 <link>$doregex[makelist]</link>
