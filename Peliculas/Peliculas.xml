@@ -6,7 +6,7 @@
  
 <regex>
 <name>getUrl</name>
-<expres><! [CDATA [ # $ pyFunction
+<expres>< ! [CDATA [ # $ pyFunction
 importar re, solicitudes, json
 def GetLSProData (page_data, Cookie_Jar, m):
  
