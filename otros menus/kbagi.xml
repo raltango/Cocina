@@ -3,7 +3,7 @@
 <link> $ doregex [getUrl]</link>
  
 <regex>
-<nombre>getUrl</name>
+<name>getUrl</name>
 <expres><! [CDATA [ # $ pyFunction
 importar re, solicitudes, json
 def GetLSProData (page_data, Cookie_Jar, m):
@@ -33,9 +33,9 @@ def GetLSProData (page_data, Cookie_Jar, m):
  imprimir r3
  devolver r3]]> 
  </expres>
-<página> </página>
+<page> </page>
 <cookieJar> </cookieJar>
 </regex>
-<miniatura> http://www.thesportsdb.com/images/icons/honours/FIA_Formula_1_World_Championship.png </thumbnail>
+<thumbnail> http://www.thesportsdb.com/images/icons/honours/FIA_Formula_1_World_Championship.png </thumbnail>
 <fanart> http://eskipaper.com/images/f1-wallpaper-1.jpg </fanart>
 </item>
