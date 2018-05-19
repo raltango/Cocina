@@ -41,3 +41,28 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
+
+<item>
+<title> [COLOR amarillo] _ ** _ [/ COLOR] [COLOR skyblue] TEMPORADA 1 CAP 1 [/ COLOR] [COLOR amarillo] _ ** _ [/ COLOR] </title>
+<urlsolve> https://archive.org/download/arrow101-www.newpct.com/arrow101-www.newpct.com.avi </urlsolve>
+<miniatura> https://upload.wikimedia.org/wikipedia/es/7/7f/Arrow_%28cast%29.jpg <thumbnail>
+<info> </info>
+</item>
+
+<item>
+<title>The Grand Tour</title>
+<link>$doregex[makelist0]</link>
+ <regex>
+<name>makelist0</name>
+<listrepeat><![CDATA[
+<title>[B][COLOR lightblue] [makelist0.param2] [/COLOR][/B] </title>
+<link>http://dl2.mihanpix.com/Film/2016/[makelist0.param1]</link>
+]]></listrepeat>
+<expres><![CDATA[href="(.*?)">(.*?)<]]></expres>
+<page>https://openloadmovie.ws/movies/taxi-5-2018/</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
