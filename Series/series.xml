@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
  <channels>
-    <channels_info> <!-- this is optional -->
+    <channels_info>Estamos de pruebas***** <!-- this is optional -->
       <title>Estamos PROBANDO</title> <!-- if channels_info, a title is required, other elements are optional -->
-      <genre>GENERO</genre>
-      <description>DESCRIPCION</description>
+      <genre>El mio</genre>
+      <description>Empezando</description>
       <thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
       <fanart>URL DE LA IMAGEN DE FONDO</fanart>
       <date>2018</date>
